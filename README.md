@@ -31,5 +31,7 @@ We would like to acknowledge the contribution of many parties, especially for th
 
 For publications that use codes and data provided in this repository, please cite:
 * "Hansun, S. LSTM for Regression Tasks. https://github.com/senghansun/LSTM-for-Regression" 
+
 and/or the published article:
+
 * "Hansun, S., Young, J.C. Predicting LQ45 financial sector indices using RNN-LSTM. J Big Data 8, 104 (2021). https://doi.org/10.1186/s40537-021-00495-x"
